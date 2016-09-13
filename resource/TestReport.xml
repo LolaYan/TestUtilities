@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<TestProject id="TP01">
+		<TestSuite id="TS01">
+			<TestCase id="TC01">
+				<TestStep id="TST01">
+					<name>Gaming Ticket Validation</name>
+					<status>Success</status>
+					<type>Computer</type>
+					<time>44.95</time>
+				</TestStep>
+			</TestCase>
+		</TestSuite>
+	</TestProject>
+</catalog>
